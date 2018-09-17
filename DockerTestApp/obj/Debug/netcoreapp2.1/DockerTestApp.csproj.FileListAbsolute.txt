@@ -1,0 +1,15 @@
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.csproj.CoreCompileInputs.cache
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.AssemblyInfoInputs.cache
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.AssemblyInfo.cs
+C:\Code\git\DockerTestApp\DockerTestApp\bin\Debug\netcoreapp2.1\DockerTestApp.deps.json
+C:\Code\git\DockerTestApp\DockerTestApp\bin\Debug\netcoreapp2.1\DockerTestApp.runtimeconfig.json
+C:\Code\git\DockerTestApp\DockerTestApp\bin\Debug\netcoreapp2.1\DockerTestApp.runtimeconfig.dev.json
+C:\Code\git\DockerTestApp\DockerTestApp\bin\Debug\netcoreapp2.1\DockerTestApp.dll
+C:\Code\git\DockerTestApp\DockerTestApp\bin\Debug\netcoreapp2.1\DockerTestApp.pdb
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.csprojAssemblyReference.cache
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.RazorAssemblyInfo.cache
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.RazorAssemblyInfo.cs
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.RazorTargetAssemblyInfo.cache
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.dll
+C:\Code\git\DockerTestApp\DockerTestApp\obj\Debug\netcoreapp2.1\DockerTestApp.pdb
